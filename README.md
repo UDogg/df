@@ -1,1 +1,1 @@
-A simple command-line application.
+# Dart and Flutter App
